@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+*.iml
+xcuserdata/
+node_modules/
+.vs/
+local.properties
+google-services.json
+GoogleService-Info.plist
+.env
+.env.*
+bin/
+obj/
+build/
